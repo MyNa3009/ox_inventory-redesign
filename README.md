@@ -1,5 +1,3 @@
-![Uploading BlossomInventory.png…]()
-
 
 <div align="center">
 

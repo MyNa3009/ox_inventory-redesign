@@ -5,6 +5,7 @@
 
 A modern, fully configurable UI redesign for [ox_inventory](https://github.com/overextended/ox_inventory).
 **Free and open source.**
+Discord: 
 
 </div>
 
